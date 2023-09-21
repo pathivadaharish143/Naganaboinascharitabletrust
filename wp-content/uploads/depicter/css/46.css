@@ -1,0 +1,162 @@
+.depicter-46-element-30 .depicter-bullet-item {
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 5px;
+    width: 9px;
+    height: 9px
+}
+
+.depicter-46-element-30 .depicter-bullet-item.depicter-bullet-active {
+    background-color: #000
+}
+
+.depicter-revert .depicter-46-element-31 {
+    background-color: transparent
+}
+
+.depicter-46-element-31 .depicter-arrow-icon {
+    fill: #000
+}
+
+.depicter-revert .depicter-46-element-29 {
+    opacity: 1;
+    box-shadow: 10px 10px 25px 0 #000;
+    backdrop-filter: blur(0px) brightness(100%) opacity(100%);
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #000
+}
+
+.depicter-46-element-29 .depicter-arrow-icon {
+    fill: #000
+}
+
+.depicter-revert .depicter-46-element-43 {
+    font-size: 13px;
+    text-align: center;
+    color: #fff;
+    font-family: roboto;
+    font-weight: 400;
+    background-color: #4980f5;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-46-section-42 .depicter-section-background {
+    background-color: #fff
+}
+
+.depicter-revert .depicter-46-element-12 {
+    font-size: 13px;
+    text-align: center;
+    color: #fff;
+    font-family: roboto;
+    font-weight: 400;
+    background-color: #4980f5;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-46-section-8 .depicter-section-background {
+    background-color: #fff
+}
+
+.depicter-revert .depicter-46-element-26 {
+    font-size: 13px;
+    text-align: center;
+    color: #fff;
+    font-family: roboto;
+    font-weight: 400;
+    background-color: #4980f5;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-46-section-22 .depicter-section-background {
+    background-color: #fff
+}
+
+.depicter-revert .depicter-46-element-38 {
+    font-size: 13px;
+    text-align: center;
+    color: #fff;
+    font-family: roboto;
+    font-weight: 400;
+    background-color: #4980f5;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-46-section-37 .depicter-section-background {
+    background-color: #fff
+}
+
+@media screen and (max-width:767px) {
+    .depicter-46-element-30 .depicter-bullet-item {
+        background-color: rgba(0, 0, 0, .5)
+    }
+    .depicter-46-element-30 .depicter-bullet-item.depicter-bullet-active {
+        background-color: #000
+    }
+    .depicter-revert .depicter-46-element-31 {
+        background-color: transparent
+    }
+    .depicter-46-element-31 .depicter-arrow-icon {
+        fill: #ebebeb
+    }
+    .depicter-revert .depicter-46-element-29 {
+        opacity: .98;
+        box-shadow: none;
+        backdrop-filter: none;
+        background-color: transparent;
+        border: none
+    }
+    .depicter-46-element-29 .depicter-arrow-icon {
+        fill: #ebebeb
+    }
+    .depicter-revert .depicter-46-element-43 {
+        font-size: 13px;
+        text-align: center;
+        color: #fff;
+        font-family: montserrat;
+        font-weight: 400;
+        text-transform: uppercase;
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-46-section-42 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-46-element-12 {
+        font-size: 13px;
+        text-align: center;
+        color: #fff;
+        font-family: montserrat;
+        font-weight: 400;
+        text-transform: uppercase;
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-46-section-8 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-46-element-26 {
+        font-size: 13px;
+        text-align: center;
+        color: #fff;
+        font-family: montserrat;
+        font-weight: 400;
+        text-transform: uppercase;
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-46-section-22 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-46-element-38 {
+        font-size: 13px;
+        text-align: center;
+        color: #fff;
+        font-family: montserrat;
+        font-weight: 400;
+        text-transform: uppercase;
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-46-section-37 .depicter-section-background {
+        background-color: #fff
+    }
+}

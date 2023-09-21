@@ -1,0 +1,129 @@
+.depicter-revert .depicter-118-element-36 {
+    background-color: transparent
+}
+
+.depicter-118-element-36 .depicter-arrow-icon {
+    fill: #ebebeb
+}
+
+.depicter-revert .depicter-118-element-37 {
+    background-color: transparent
+}
+
+.depicter-118-element-37 .depicter-bullet-item {
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 5px;
+    width: 9px;
+    height: 9px
+}
+
+.depicter-118-element-37 .depicter-bullet-item.depicter-bullet-active {
+    background-color: #000
+}
+
+.depicter-revert .depicter-118-element-38 {
+    background-color: transparent
+}
+
+.depicter-118-element-38 .depicter-arrow-icon {
+    fill: #ebebeb
+}
+
+.depicter-revert .depicter-118-element-7 {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: montserrat;
+    font-weight: 400;
+    background-color: #4fb846;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-118-section-1 .depicter-section-background {
+    background-color: #fff
+}
+
+.depicter-revert .depicter-118-element-55 {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: montserrat;
+    font-weight: 400;
+    background-color: #4fb846;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-118-section-54 .depicter-section-background {
+    background-color: #fff
+}
+
+.depicter-revert .depicter-118-element-44 {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: montserrat;
+    font-weight: 400;
+    background-color: #4fb846;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-118-section-16 .depicter-section-background {
+    background-color: #fff
+}
+
+.depicter-revert .depicter-118-element-47 {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    font-family: montserrat;
+    font-weight: 400;
+    background-color: #4fb846;
+    border-radius: 20px
+}
+
+.depicter-revert .depicter-118-section-46 .depicter-section-background {
+    background-color: #fff
+}
+
+@media screen and (max-width:1024px) {
+    .depicter-revert .depicter-118-section-1 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-118-section-54 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-118-section-16 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-118-section-46 .depicter-section-background {
+        background-color: #fff
+    }
+}
+
+@media screen and (max-width:767px) {
+    .depicter-revert .depicter-118-element-7 {
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-118-section-1 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-118-element-55 {
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-118-section-54 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-118-element-44 {
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-118-section-16 .depicter-section-background {
+        background-color: #fff
+    }
+    .depicter-revert .depicter-118-element-47 {
+        background-color: #4fb846
+    }
+    .depicter-revert .depicter-118-section-46 .depicter-section-background {
+        background-color: #fff
+    }
+}
